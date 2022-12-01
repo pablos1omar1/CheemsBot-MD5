@@ -59,15 +59,13 @@
     "xfarr-api": "^1.0.2",
     "yargs": "^17.2.1",
     "instagram-url-direct": "^1.0.12",
-    "caliph-api": "^0.9.3",
+    "caliph-api": "github:caliphdev/caliph-api",
     "mumaker": "^1.0.0",
-    "request": "^2.88.2",
     "tod-api": "^1.0.5",
     "emoji-api": "^1.0.2",
     "anime-wallpaper": "^1.0.2",
     "qrcode": "^1.5.0",
     "qrcode-reader": "^1.0.4",
-    "qrcode-terminal": "^0.12.0",
     "image-to-base64": "^2.1.1",
     "yt-search": "^2.10.2"
   },
@@ -78,10 +76,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
+    "url": "git+https://github.com/DGXeon/CheemsBot-MD5.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
+    "url": "https://github.com/DGXeon/CheemsBot-MD5/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
+  "homepage": "https://github.com/DGXeon/CheemsBot-MD5#readme"
 }
