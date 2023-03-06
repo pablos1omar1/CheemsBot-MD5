@@ -14,19 +14,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917798203711'] //ur owner number
-global.ownername = "Shubham" //ur owner name
+global.vcardowner = ['905370434073905370434073905370434073'] //ur owner number
+global.ownername = "subaru" //ur owner name
 global.ytname = "https://youtube.com/channel/UCFQIjCiSlukKVIIt6aS4b3g" //ur yt chanel name
 global.socialm = "https://instagram.com/i_a_m_ghost_?igshid=YmMyMTA2M2Y=" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['917798203711'] //ur number
-global.ownernomer = "917798203711" //ur number
-global.ownertag = '917798203711' //ur tag number
-global.premium = ['917798203711'] //ur premium number
+global.owner = ['905370434073'] //ur number
+global.ownernomer = "905370434073905370434073905370434073" //ur number
+global.ownertag = '905370434073905370434073' //ur tag number
+global.premium = ['905370434073'] //ur premium number
 global.botname = 'Danav' //ur bot name
-global.ownername = "Shubham"
+global.ownername = "subaru"
 global.linkz = "https://instagram.com/i_a_m_ghost_?igshid=YmMyMTA2M2Y=" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCFQIjCiSlukKVIIt6aS4b3g" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/' //script link
